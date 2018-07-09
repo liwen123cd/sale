@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
     //Sale_Widget::Sale_State_Change("18070410365311111111111",QString("到达白塔"));
     //Sale_Widget::Sale_State_Change("18070410365311111111111",QString("签收"));
     //test
+    //test2
     Sale_Widget w;  
     w.show();
 
